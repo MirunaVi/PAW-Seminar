@@ -1,0 +1,11 @@
+c:\users\ghine\source\repos\Banca\Banca\bin\Debug\Banca.exe.config
+c:\users\ghine\source\repos\Banca\Banca\bin\Debug\Banca.exe
+c:\users\ghine\source\repos\Banca\Banca\bin\Debug\Banca.pdb
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.csprojResolveAssemblyReference.cache
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.Form1.resources
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.Properties.Resources.resources
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.csproj.GenerateResource.cache
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.csproj.CoreCompileInputs.cache
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.exe
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.pdb
+c:\users\ghine\source\repos\Banca\Banca\obj\Debug\Banca.Form2.resources

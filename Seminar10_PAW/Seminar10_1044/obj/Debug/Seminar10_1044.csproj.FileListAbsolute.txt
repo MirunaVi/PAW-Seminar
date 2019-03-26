@@ -1,0 +1,10 @@
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\bin\Debug\Seminar10_1044.exe.config
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\bin\Debug\Seminar10_1044.exe
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\bin\Debug\Seminar10_1044.pdb
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.csprojResolveAssemblyReference.cache
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.Form1.resources
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.Properties.Resources.resources
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.csproj.GenerateResource.Cache
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.exe
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.pdb
+T:\Baicu Andrei\Seminar10_1044\Seminar10_1044\obj\Debug\Seminar10_1044.Form2.resources

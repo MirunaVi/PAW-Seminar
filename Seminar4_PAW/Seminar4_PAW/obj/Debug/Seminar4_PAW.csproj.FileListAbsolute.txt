@@ -1,0 +1,9 @@
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\bin\Debug\Seminar4_PAW.exe.config
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\bin\Debug\Seminar4_PAW.exe
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\bin\Debug\Seminar4_PAW.pdb
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\obj\Debug\Seminar4_PAW.csprojResolveAssemblyReference.cache
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\obj\Debug\Seminar4_PAW.Form1.resources
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\obj\Debug\Seminar4_PAW.Properties.Resources.resources
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\obj\Debug\Seminar4_PAW.csproj.GenerateResource.Cache
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\obj\Debug\Seminar4_PAW.exe
+T:\PAW_1044\Seminar4_PAW\Seminar4_PAW\obj\Debug\Seminar4_PAW.pdb

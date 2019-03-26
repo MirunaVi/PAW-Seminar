@@ -1,0 +1,9 @@
+T:\1005\1044\Seminar9_1044\Seminar9_1044\bin\Debug\Seminar9_1044.exe.config
+T:\1005\1044\Seminar9_1044\Seminar9_1044\bin\Debug\Seminar9_1044.exe
+T:\1005\1044\Seminar9_1044\Seminar9_1044\bin\Debug\Seminar9_1044.pdb
+T:\1005\1044\Seminar9_1044\Seminar9_1044\obj\Debug\Seminar9_1044.csprojResolveAssemblyReference.cache
+T:\1005\1044\Seminar9_1044\Seminar9_1044\obj\Debug\Seminar9_1044.Form1.resources
+T:\1005\1044\Seminar9_1044\Seminar9_1044\obj\Debug\Seminar9_1044.Properties.Resources.resources
+T:\1005\1044\Seminar9_1044\Seminar9_1044\obj\Debug\Seminar9_1044.csproj.GenerateResource.Cache
+T:\1005\1044\Seminar9_1044\Seminar9_1044\obj\Debug\Seminar9_1044.exe
+T:\1005\1044\Seminar9_1044\Seminar9_1044\obj\Debug\Seminar9_1044.pdb

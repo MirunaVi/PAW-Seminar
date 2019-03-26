@@ -1,0 +1,11 @@
+C:\Users\ghine\source\repos\Abonat\Abonat\bin\Debug\Abonat.exe.config
+C:\Users\ghine\source\repos\Abonat\Abonat\bin\Debug\Abonat.exe
+C:\Users\ghine\source\repos\Abonat\Abonat\bin\Debug\Abonat.pdb
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.csprojResolveAssemblyReference.cache
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.Form1.resources
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.Form2.resources
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.Properties.Resources.resources
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.csproj.GenerateResource.cache
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.csproj.CoreCompileInputs.cache
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.exe
+C:\Users\ghine\source\repos\Abonat\Abonat\obj\Debug\Abonat.pdb

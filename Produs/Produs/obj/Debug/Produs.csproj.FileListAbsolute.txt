@@ -1,0 +1,11 @@
+C:\Users\ghine\source\repos\Produs\Produs\bin\Debug\Produs.exe.config
+C:\Users\ghine\source\repos\Produs\Produs\bin\Debug\Produs.exe
+C:\Users\ghine\source\repos\Produs\Produs\bin\Debug\Produs.pdb
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.csprojResolveAssemblyReference.cache
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.Form1.resources
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.Properties.Resources.resources
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.csproj.GenerateResource.cache
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.csproj.CoreCompileInputs.cache
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.exe
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.pdb
+C:\Users\ghine\source\repos\Produs\Produs\obj\Debug\Produs.Form2.resources

@@ -1,0 +1,5 @@
+100,Gigel,10
+200,Ionel,8
+300,Dorel,9
+400,Maricica,7
+500,Marcel,5

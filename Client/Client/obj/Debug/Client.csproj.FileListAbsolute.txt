@@ -1,0 +1,12 @@
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\ghine\source\repos\Client\Client\bin\Debug\Client.exe.config
+c:\users\ghine\source\repos\Client\Client\bin\Debug\Client.exe
+c:\users\ghine\source\repos\Client\Client\bin\Debug\Client.pdb
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.exe
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.pdb
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.Form2.resources
+c:\users\ghine\source\repos\Client\Client\obj\Debug\Client.Form3.resources
